@@ -1,0 +1,2 @@
+- ユーザ名を [nikukyugamer](https://github.com/nikukyugamer) へと変更いたしましたので、そちらをご参照願います
+  - Osamu Takyia (takiya@toran.sakura.ne.jp) 
